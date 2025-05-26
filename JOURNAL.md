@@ -15,4 +15,13 @@ BOM at time of writing:
 
 ![](https://github.com/thelegendofmario/graphite/blob/main/.github/bom.png?raw=true)
 
+
 **Total Time Spent: 30 minutes**
+
+# May 26: did more researchin' lol
+
+Today, I just did more reasearching parts and I got kicad libraries for a few things I need:
+
+![](https://github.com/thelegendofmario/graphite/blob/main/.github/kicadlibs.png?raw=true)
+
+**Total Time Spent: 1 hour and 45 minutes**
