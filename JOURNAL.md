@@ -24,4 +24,12 @@ Today, I just did more reasearching parts and I got kicad libraries for a few th
 
 ![](https://github.com/thelegendofmario/graphite/blob/main/.github/kicadlibs.png?raw=true)
 
-**Total Time Spent: 1 hour and 45 minutes**
+**Total Time Spent: 1 hour**
+
+# June 02: FINALLY BACK 🎉
+
+Today I finally got around to working on this for a little bit, and I got the screen in the schematic FINALLY wired :D
+
+![](https://github.com/thelegendofmario/graphite/blob/main/.github/wiringtft.png)
+
+**Total Time Spent: 1 hour and 21 minutes**
