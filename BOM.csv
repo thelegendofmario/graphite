@@ -1,10 +1,9 @@
 PCB components,,,
 Name,Buy Website,Price,Notes
-"2.2"" TFT LCD",here,$24.95,Just have to use a generic 10 pin thingy 🤷
-Rasberry Pi Pico,here,$6.00,
-Buttons,here,$0.25,"(that's for one, gets cheaper the more you buy yay)"
-Keystone 1022,here,$5.34,
-headers,here,$4.95,
+"2.2"" TFT LCD",https://www.adafruit.com/product/1480,$24.95,Just have to use a generic 10 pin thingy 🤷
+Rasberry Pi Pico,https://www.adafruit.com/product/4864,$6.00,
+Buttons,https://www.mouser.com/ProductDetail/Omron-Electronics/B3F-1000?qs=lK7M36XCk6JQHckSc1xIsg%3D%3D,$0.25,"(that's for one, gets cheaper the more you buy yay)",$0.25,
+headers,https://www.adafruit.com/product/392,$4.95,
 ,,,
 ,,,
 ,Total,$41.49,
