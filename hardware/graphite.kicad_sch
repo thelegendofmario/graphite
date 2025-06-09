@@ -5686,7 +5686,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "B3F_1000:B3F1002"
 			(at 220.98 155.88 0)
 			(effects
 				(font
@@ -5812,7 +5812,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "B3F_1000:B3F1002"
 			(at 107.95 258.75 0)
 			(effects
 				(font
@@ -5938,7 +5938,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "B3F_1000:B3F1002"
 			(at 78.74 237.16 0)
 			(effects
 				(font
@@ -6152,7 +6152,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "B3F_1000:B3F1002"
 			(at 193.04 279.07 0)
 			(effects
 				(font
@@ -6454,7 +6454,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "B3F_1000:B3F1002"
 			(at 78.74 176.2 0)
 			(effects
 				(font
@@ -6668,7 +6668,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "B3F_1000:B3F1002"
 			(at 193.04 237.16 0)
 			(effects
 				(font
@@ -6794,7 +6794,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "B3F_1000:B3F1002"
 			(at 137.16 258.75 0)
 			(effects
 				(font
@@ -6986,7 +6986,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "B3F_1000:B3F1002"
 			(at 193.04 258.75 0)
 			(effects
 				(font
@@ -7112,7 +7112,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "B3F_1000:B3F1002"
 			(at 107.95 135.56 0)
 			(effects
 				(font
@@ -7326,7 +7326,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "B3F_1000:B3F1002"
 			(at 137.16 237.16 0)
 			(effects
 				(font
@@ -7540,7 +7540,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "B3F_1000:B3F1002"
 			(at 165.1 155.88 0)
 			(effects
 				(font
@@ -7666,7 +7666,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "B3F_1000:B3F1002"
 			(at 137.16 196.52 0)
 			(effects
 				(font
@@ -8144,7 +8144,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "B3F_1000:B3F1002"
 			(at 165.1 299.39 0)
 			(effects
 				(font
@@ -8513,7 +8513,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "B3F_1000:B3F1002"
 			(at 137.16 299.39 0)
 			(effects
 				(font
@@ -8903,7 +8903,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "B3F_1000:B3F1002"
 			(at 137.16 176.2 0)
 			(effects
 				(font
@@ -9183,7 +9183,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "B3F_1000:B3F1002"
 			(at 137.16 216.84 0)
 			(effects
 				(font
@@ -9485,7 +9485,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "B3F_1000:B3F1002"
 			(at 107.95 237.16 0)
 			(effects
 				(font
@@ -9611,7 +9611,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "B3F_1000:B3F1002"
 			(at 78.74 216.84 0)
 			(effects
 				(font
@@ -10001,7 +10001,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "B3F_1000:B3F1002"
 			(at 78.74 258.75 0)
 			(effects
 				(font
@@ -10127,7 +10127,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "B3F_1000:B3F1002"
 			(at 78.74 279.07 0)
 			(effects
 				(font
@@ -10342,7 +10342,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Module_RaspberryPi_Pico:RaspberryPi_Pico_Common"
+		(property "Footprint" "Module:RaspberryPi_Pico_Common_THT"
 			(at 278.13 156.21 0)
 			(effects
 				(font
@@ -10524,7 +10524,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "B3F_1000:B3F1002"
 			(at 165.1 258.75 0)
 			(effects
 				(font
@@ -10805,7 +10805,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "B3F_1000:B3F1002"
 			(at 107.95 279.07 0)
 			(effects
 				(font
@@ -11195,7 +11195,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "B3F_1000:B3F1002"
 			(at 193.04 155.88 0)
 			(effects
 				(font
@@ -11411,7 +11411,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x10_P2.54mm_Vertical"
 			(at 340.36 113.03 0)
 			(effects
 				(font
@@ -11855,7 +11855,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "B3F_1000:B3F1002"
 			(at 78.74 155.88 0)
 			(effects
 				(font
@@ -11981,7 +11981,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "B3F_1000:B3F1002"
 			(at 137.16 135.56 0)
 			(effects
 				(font
@@ -12438,7 +12438,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "B3F_1000:B3F1002"
 			(at 165.1 279.07 0)
 			(effects
 				(font
@@ -12740,7 +12740,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "B3F_1000:B3F1002"
 			(at 165.1 216.84 0)
 			(effects
 				(font
@@ -12954,7 +12954,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "B3F_1000:B3F1002"
 			(at 78.74 319.71 0)
 			(effects
 				(font
@@ -13168,7 +13168,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "B3F_1000:B3F1002"
 			(at 137.16 319.71 0)
 			(effects
 				(font
@@ -13382,7 +13382,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "B3F_1000:B3F1002"
 			(at 137.16 279.07 0)
 			(effects
 				(font
@@ -13508,7 +13508,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "B3F_1000:B3F1002"
 			(at 165.1 176.2 0)
 			(effects
 				(font
@@ -13634,7 +13634,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "B3F_1000:B3F1002"
 			(at 107.95 176.2 0)
 			(effects
 				(font
@@ -13760,7 +13760,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "B3F_1000:B3F1002"
 			(at 78.74 135.56 0)
 			(effects
 				(font
@@ -14062,7 +14062,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "B3F_1000:B3F1002"
 			(at 165.1 237.16 0)
 			(effects
 				(font
@@ -14188,7 +14188,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "B3F_1000:B3F1002"
 			(at 137.16 155.88 0)
 			(effects
 				(font
@@ -14402,7 +14402,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "B3F_1000:B3F1002"
 			(at 193.04 319.71 0)
 			(effects
 				(font
@@ -14616,7 +14616,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "B3F_1000:B3F1002"
 			(at 107.95 299.39 0)
 			(effects
 				(font
@@ -14742,7 +14742,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "B3F_1000:B3F1002"
 			(at 193.04 135.56 0)
 			(effects
 				(font
@@ -14868,7 +14868,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "B3F_1000:B3F1002"
 			(at 193.04 299.39 0)
 			(effects
 				(font
@@ -14994,7 +14994,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "B3F_1000:B3F1002"
 			(at 78.74 196.52 0)
 			(effects
 				(font
@@ -15208,7 +15208,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "B3F_1000:B3F1002"
 			(at 107.95 319.71 0)
 			(effects
 				(font
@@ -15334,7 +15334,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "B3F_1000:B3F1002"
 			(at 165.1 196.52 0)
 			(effects
 				(font
@@ -15460,7 +15460,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "B3F_1000:B3F1002"
 			(at 193.04 216.84 0)
 			(effects
 				(font
@@ -15740,7 +15740,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "B3F_1000:B3F1002"
 			(at 107.95 216.84 0)
 			(effects
 				(font
@@ -15954,7 +15954,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "B3F_1000:B3F1002"
 			(at 107.95 155.88 0)
 			(effects
 				(font
@@ -16080,7 +16080,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "B3F_1000:B3F1002"
 			(at 193.04 196.52 0)
 			(effects
 				(font
@@ -16206,7 +16206,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "B3F_1000:B3F1002"
 			(at 165.1 135.56 0)
 			(effects
 				(font
@@ -16332,7 +16332,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "B3F_1000:B3F1002"
 			(at 78.74 299.39 0)
 			(effects
 				(font
@@ -16722,7 +16722,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "B3F_1000:B3F1002"
 			(at 165.1 319.71 0)
 			(effects
 				(font
@@ -16848,7 +16848,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "B3F_1000:B3F1002"
 			(at 107.95 196.52 0)
 			(effects
 				(font
