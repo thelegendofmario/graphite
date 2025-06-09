@@ -42,3 +42,18 @@ Today I wired the button matrix! I might do some later today, (like assign footp
 > finished schematic ^^
 
 **Total Time Spent: 2 hours**
+
+# June 09: Finished Routing
+
+Today was a big day. Today I finally got around to finishing assigning footprints to things and routing the pcb!
+(this took about 2 hours. I didn't realize how tedious routing was lol)
+
+![](https://github.com/thelegendofmario/graphite/blob/main/.github/routing.png)
+
+> ^^ finished routing ^^
+
+![](https://github.com/thelegendofmario/graphite/blob/main/.github/pcb.png)
+
+> ^^ finished pcb ^^
+
+**Total Time Spent: 4 hours and 5 minutes**
