@@ -10,6 +10,173 @@
 		(rev "A")
 	)
 	(lib_symbols
+		(symbol "1N4148_1"
+			(pin_numbers
+				(hide yes)
+			)
+			(pin_names
+				(hide yes)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "D"
+				(at 0 2.54 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "1N4148"
+				(at 0 -2.54 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "100V 0.15A standard switching diode, DO-35"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Sim.Device" "D"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Sim.Pins" "1=K 2=A"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "diode"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_fp_filters" "D*DO?35*"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "1N4148_1_0_1"
+				(polyline
+					(pts
+						(xy -1.27 1.27) (xy -1.27 -1.27)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 1.27 1.27) (xy 1.27 -1.27) (xy -1.27 0) (xy 1.27 1.27)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 1.27 0) (xy -1.27 0)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "1N4148_1_1_1"
+				(pin passive line
+					(at -3.81 0 0)
+					(length 2.54)
+					(name "K"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 3.81 0 180)
+					(length 2.54)
+					(name "A"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
 		(symbol "Connector_Generic:Conn_01x10"
 			(pin_names
 				(offset 1.016)
@@ -2297,12 +2464,6 @@
 		(uuid "6eeeae83-4e06-4c1a-8863-b01d258b17cf")
 	)
 	(junction
-		(at 62.23 52.07)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "6f2c1970-5393-489a-b0fc-49a12b9fd267")
-	)
-	(junction
 		(at 62.23 215.9)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -2403,6 +2564,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "9b2cfb27-ca6f-4c18-a770-7c72e51462fb")
+	)
+	(junction
+		(at 62.23 52.07)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "9b80ba26-bd08-4c98-a375-ec3309de9a4b")
 	)
 	(junction
 		(at 171.45 101.6)
@@ -2713,16 +2880,6 @@
 			(type default)
 		)
 		(uuid "0c145f3c-38da-4f75-b05d-f55fdec5ac60")
-	)
-	(wire
-		(pts
-			(xy 62.23 52.07) (xy 91.44 52.07)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "0cac413d-dc57-4c0c-b4c3-ae8edb8e9521")
 	)
 	(wire
 		(pts
@@ -3323,6 +3480,16 @@
 			(type default)
 		)
 		(uuid "56e177c3-e232-4ad6-94f1-24030abc1883")
+	)
+	(wire
+		(pts
+			(xy 62.23 52.07) (xy 91.44 52.07)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "576baeb8-17e8-482b-804c-4a4e20c3116e")
 	)
 	(wire
 		(pts
@@ -10906,6 +11073,7 @@
 		)
 	)
 	(symbol
+		(lib_name "1N4148_1")
 		(lib_id "Diode:1N4148")
 		(at 62.23 48.26 90)
 		(unit 1)
