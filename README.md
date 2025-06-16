@@ -13,9 +13,9 @@ I made this because this is my first ever PCB and thing like this. _Also_, I rea
 
 ## Bill of Materials:
 
-| PCB components | column_2 | column_3 | column_4 |
-| --- | --- | --- | --- |
+PCB components: 
 | Name | Buy Website | Price | Notes |
+| --- | --- | --- | --- |
 | 2.2" TFT LCD | https://www.adafruit.com/product/1480 | $24.95 | Just have to use a generic 10 pin thingy 🤷 |
 | Rasberry Pi Pico | https://www.adafruit.com/product/4864 | $6.00 |  |
 | Buttons | https://www.mouser.com/ProductDetail/Omron-Electronics/B3F-1000?qs=lK7M36XCk6JQHckSc1xIsg%3D%3D | $0.25 | (that's for one, gets cheaper the more you buy yay) |
