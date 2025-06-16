@@ -5,6 +5,8 @@ description: "a custom graphing calculator"
 created_at: "2025-05-24"
 ---
 
+# Total Time Spent: 5 hours
+
 # May 24: (researching parts)
 
 all I did today was research parts that I'll need and made a BOM.
@@ -57,3 +59,13 @@ Today was a big day. Today I finally got around to finishing assigning footprint
 > ^^ finished pcb ^^
 
 **Total Time Spent: 4 hours and 5 minutes**
+
+# June 16: Finished case
+
+today I made/finished the case for my pcb, I decided to go ultra-simple instead of a complicated case 🤷
+
+![](https://github.com/thelegendofmario/graphite/blob/main/.github/casetop.png)
+
+![](https://github.com/thelegendofmario/graphite/blob/main/.github/case%20bottom.png)
+
+**Total Time Spent 5 hours**
