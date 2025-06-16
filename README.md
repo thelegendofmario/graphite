@@ -10,3 +10,9 @@ There are a couple of reasons I chose this board:
 ## But _Why_ did you make this?
 
 I made this because this is my first ever PCB and thing like this. _Also_, I really wanted to fix some things that I found wrong with the TI-84s and such.
+
+---
+![](https://github.com/thelegendofmario/graphite/blob/main/.github/casetop.png)
+![](https://github.com/thelegendofmario/graphite/blob/main/.github/case%20bottom.png)
+![](https://github.com/thelegendofmario/graphite/blob/main/.github/pcb.png)
+> project images
