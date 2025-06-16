@@ -486,10 +486,10 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "",
+      "plot": "/home/ethan/Documents/kicad/graphite/hardware/gerbers/",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "../../../../Downloads/graphite.step",
+      "step": "../../../../Downloads/graphite.stl",
       "svg": "",
       "vrml": ""
     },
