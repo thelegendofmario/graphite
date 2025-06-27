@@ -25,7 +25,7 @@ PCB components:
 |  | Total | $39.45 |  |
 
 ---
-![](https://github.com/thelegendofmario/graphite/blob/main/.github/casetop.png)
-![](https://github.com/thelegendofmario/graphite/blob/main/.github/case%20bottom.png)
+![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/0f966fbdf2ac45c8ce0e0cea5558c57428af2e90_screenshot_from_2025-06-27_13-22-37.png)
+![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/531142545bdc04ec532ca752394d438c9cbeed67_screenshot_from_2025-06-27_13-22-11.png)
 ![](https://github.com/thelegendofmario/graphite/blob/main/.github/pcb.png)
 > project images
