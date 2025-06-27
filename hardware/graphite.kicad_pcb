@@ -13847,7 +13847,7 @@
 		(property "Reference" "J1"
 			(at 0 -2.38 0)
 			(layer "F.SilkS")
-			(uuid "5b673027-9237-4f3c-a177-bf78ff9efeb6")
+			(uuid "ee3ce21d-aa30-426e-937c-8981e3811695")
 			(effects
 				(font
 					(size 1 1)
@@ -13858,7 +13858,7 @@
 		(property "Value" "Adafruit TFT"
 			(at 0 25.24 0)
 			(layer "F.Fab")
-			(uuid "6dd78a02-9c50-4add-bd01-3b99881c1f49")
+			(uuid "5bd7f345-5b07-45a0-b15d-d028580ec4e9")
 			(effects
 				(font
 					(size 1 1)
@@ -13870,7 +13870,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "99853ee8-736d-4018-8a68-79eeb7bd8f8b")
+			(uuid "3c79cd99-3dba-4d68-beff-ca2dd8377ed7")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13882,7 +13882,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "0328a472-9614-4473-8c73-663fa91de372")
+			(uuid "794058dc-3e11-4d76-8222-13ebdda9e61e")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14168,6 +14168,7 @@
 		)
 		(embedded_fonts no)
 		(model "${KICAD9_3DMODEL_DIR}/Connector_PinHeader_2.54mm.3dshapes/PinHeader_1x10_P2.54mm_Vertical.step"
+			(hide yes)
 			(offset
 				(xyz 0 0 0)
 			)
@@ -14175,7 +14176,18 @@
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz 0 0 0)
+				(xyz -0 -0 -0)
+			)
+		)
+		(model "/home/ethan/Documents/kicad-libraries/pin-header-female-1.snapshot.13/1x10.STEP"
+			(offset
+				(xyz -1.25 1.25 8.5)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 -0)
 			)
 		)
 	)
@@ -29462,7 +29474,7 @@
 			(at 20.6375 -48.895 270)
 			(unlocked yes)
 			(layer "B.SilkS")
-			(uuid "ad062516-d090-4de0-b8fa-c8cd57fe0d9d")
+			(uuid "b469644f-5ae5-4787-8f95-dbdf0670167f")
 			(effects
 				(font
 					(size 1 1)
@@ -29475,7 +29487,7 @@
 			(at 8.89 -52.07 270)
 			(unlocked yes)
 			(layer "B.Fab")
-			(uuid "cbea1edb-cb2f-45fc-830c-59c8f0bbf4d4")
+			(uuid "b3067784-bf66-4db7-8f1a-f89bf414ccb8")
 			(effects
 				(font
 					(size 1 1)
@@ -29488,7 +29500,7 @@
 			(at 8.89 -24.13 90)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "723ae6a8-215a-481b-bfa9-796813c4c4af")
+			(uuid "ced9157d-ef41-4c06-a797-38e79c74017b")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -29501,7 +29513,7 @@
 			(at 8.89 -24.13 90)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "8c6d96c3-0fce-4498-929a-2120a5651b2b")
+			(uuid "3d71e735-857b-4bb3-9b2e-1923c936fc07")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -30952,8 +30964,7 @@
 			)
 		)
 		(embedded_fonts no)
-		(model "${KICAD9_3DMODEL_DIR}/Module.3dshapes/RaspberryPi_Pico_DIP-40_W17.78mm_H8.51mm_Socket.step"
-			(hide yes)
+		(model "/home/ethan/Documents/kicad-libraries/RaspberryPi_Pico/Module_RaspberryPi_Pico.3dshapes/DIP-40_W17.78mm_H8.51mm_Socket.step"
 			(offset
 				(xyz 8.89 -24.13 0)
 			)
@@ -30961,31 +30972,7 @@
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz 0 0 0)
-			)
-		)
-		(model "${KICAD9_3DMODEL_DIR}/Module.3dshapes/RaspberryPi_Pico_AddedHeaders.step"
-			(hide yes)
-			(offset
-				(xyz 8.89 -24.13 0)
-			)
-			(scale
-				(xyz 1 1 1)
-			)
-			(rotate
-				(xyz 0 0 0)
-			)
-		)
-		(model "${KICAD9_3DMODEL_DIR}/Module.3dshapes/RaspberryPi_Pico_AddedHeaders_Socketed.step"
-			(hide yes)
-			(offset
-				(xyz 8.89 -24.13 0)
-			)
-			(scale
-				(xyz 1 1 1)
-			)
-			(rotate
-				(xyz 0 0 0)
+				(xyz -0 -0 -0)
 			)
 		)
 		(model "${KICAD9_3DMODEL_DIR}/Module.3dshapes/RaspberryPi_Pico_H.step"
@@ -30999,64 +30986,15 @@
 				(xyz 0 0 0)
 			)
 		)
-		(model "${KICAD9_3DMODEL_DIR}/Module.3dshapes/RaspberryPi_Pico_H_Socketed.step"
-			(hide yes)
+		(model "/home/ethan/Documents/kicad-libraries/RaspberryPi_Pico/Module_RaspberryPi_Pico.3dshapes/RaspberryPi_Pico_H.step"
 			(offset
-				(xyz 8.89 -24.13 0)
+				(xyz 9 -24 9)
 			)
 			(scale
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz 0 0 0)
-			)
-		)
-		(model "${KICAD9_3DMODEL_DIR}/Module.3dshapes/RaspberryPi_Pico_W_AddedHeaders.step"
-			(hide yes)
-			(offset
-				(xyz 8.89 -24.13 0)
-			)
-			(scale
-				(xyz 1 1 1)
-			)
-			(rotate
-				(xyz 0 0 0)
-			)
-		)
-		(model "${KICAD9_3DMODEL_DIR}/Module.3dshapes/RaspberryPi_Pico_W_AddedHeaders_Socketed.step"
-			(hide yes)
-			(offset
-				(xyz 8.89 -24.13 0)
-			)
-			(scale
-				(xyz 1 1 1)
-			)
-			(rotate
-				(xyz 0 0 0)
-			)
-		)
-		(model "${KICAD9_3DMODEL_DIR}/Module.3dshapes/RaspberryPi_Pico_WH.step"
-			(hide yes)
-			(offset
-				(xyz 8.89 -24.13 0)
-			)
-			(scale
-				(xyz 1 1 1)
-			)
-			(rotate
-				(xyz 0 0 0)
-			)
-		)
-		(model "${KICAD9_3DMODEL_DIR}/Module.3dshapes/RaspberryPi_Pico_WH_Socketed.step"
-			(hide yes)
-			(offset
-				(xyz 8.89 -24.13 0)
-			)
-			(scale
-				(xyz 1 1 1)
-			)
-			(rotate
-				(xyz 0 0 0)
+				(xyz -0 -0 -0)
 			)
 		)
 	)
